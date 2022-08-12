@@ -13,5 +13,3 @@ How to install
 
 2) Open the map file in the CSGO game directory: (C:\YOUR DIRECTORY\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource\overviews) and paste all the radar.dds files
 ---------------------------------
-
-Backup.zip is the official default radar file, you can use it if you need to restore.
